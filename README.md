@@ -4,4 +4,4 @@ When a websites structure is changed, URLs need to be 301 redirected. Commonly t
 
 This will only work where the URL structure has changed, moving from a structure of unclear URLs (example.com/qrte6473/0000123a to example.com/hats/green-hats/) will need another solution. 
 
-To run this you will need a list of new and old URLs, open the script via Google Collab (linked in the .ipynb), the script will run and link to your Google Drive to save the CSV ouf the output.
+To run this you will need a list of new and old URLs, open the script via Google Collab (linked in the .ipynb), the script will run and link to your Google Drive to save the CSV of the output.
